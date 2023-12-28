@@ -1,0 +1,3 @@
+Roby = {}
+
+Roby.Lang = 'en'
